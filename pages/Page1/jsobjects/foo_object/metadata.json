@@ -14,6 +14,10 @@
       {
         "name": "myVar2",
         "value": "{}"
+      },
+      {
+        "name": "myVar3",
+        "value": "1234"
       }
     ]
   }
